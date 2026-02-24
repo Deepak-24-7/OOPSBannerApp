@@ -14,7 +14,7 @@
 // instead of concatenating strings with the operator. This is essentially to overcome the
 // drawbacks of using the operator for string concatenation which essentially creates
 // multiple intermediate String objects in memory leading to inefficiency.
-// Hint: Use String.join(" ", ...) to join the parts of each line with spaces.
+// Hint: Use String.join(" ", ...) to join the parts of each line with spaces
 public class OOPSBannerApp {
 // Main method to run the banner display
 // Use System.out.println() to print each line of the OOPS banner to create
